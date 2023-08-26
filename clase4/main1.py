@@ -11,4 +11,4 @@ class nodo:
 print("="*50)
 obj1 = nodo(5, none)
 obj2 = nodo(5, none)
-        
+    print(obj1)
