@@ -5,10 +5,10 @@ class nodo:
         self.dato = dato
         self.apuntador = apuntador 
 
-    def__str__(self):
+    def __str__(self):
         return f"{self.dato}"
 
 print("="*50)
 obj1 = nodo(5, none)
 obj2 = nodo(5, none)
-    print(obj1)
+print(obj1)
